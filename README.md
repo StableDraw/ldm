@@ -50,7 +50,7 @@ or for locale build:
 python setup.py build
 python bdist_wheel
 ``` 
-your wheel will bi in the dist directory, then you may install it by
+then your wheel will be in the dist directory, then you may install it, for example, by
 ```
 cd dist
 pip install ldm-2.1.1-py3-none-any.whl
