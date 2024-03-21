@@ -1,6 +1,6 @@
 # Latent Diffusion Models
 
-This repository contains modified version of [Latent Diffusion Models](https://github.com/CompVis/stable-diffusion/ldm) library pocket.
+This repository contains modified version of [Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion/tree/main/ldm) library pocket.
 ________________________________
 
 ## Requirements
