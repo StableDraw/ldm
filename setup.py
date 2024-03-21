@@ -78,7 +78,7 @@ def get_requirements(filename='requirements.txt'):
 if __name__ == '__main__':
     write_version_py()
     setup(
-        name='ldm',
+        name='ldm_stablediffusion',
         version=get_version(),
         description='Latent Diffusion Models',
         author='Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Bjyorn Ommer',
